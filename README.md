@@ -44,7 +44,7 @@ source("R/case2_analysis.R")
 - For large raw text files (e.g., VS 2014), adjust file paths and encoding to match your environment.
 
 ## License
-- **Code (R scripts):** MIT License © 2025 Your Name
+- **Code (R scripts):** MIT License © 2025 Jin-Hwan Kim
 - **Docs** (README, images): CC BY 4.0
 
 Please retain attribution when reusing.
